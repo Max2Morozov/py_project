@@ -11,3 +11,5 @@ def stroka_title():
     d = input()
     print(d.title())
     return
+
+# добавь привествие
