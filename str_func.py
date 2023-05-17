@@ -4,3 +4,10 @@ def stroka_up():
     s = input()
     print(s.upper())
     return
+
+def stroka_title():
+    """ функция, которая принимает на вход строку и возвращает ее заглавной буквой.
+    """
+    d = input()
+    print(d.title())
+    return
